@@ -3,7 +3,7 @@
 - 👀 I’m interested in full stack development (Java/Angular)
 - 🌱 I’m currently learning Angular 
 - 💞️ I’m looking to collaborate on in backend projects 
-- 📫 How to reach me mohamedouahrichgmail.com
+- 📫 How to reach me mohamedouahrich@gmail.com
 
 <!---
 mohamed-ouahrich/AboutMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
